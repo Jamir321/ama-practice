@@ -1,7 +1,7 @@
 # ama-practice
 Repo to practice git workflow
 
-<<<<<<< HEAD
+
 # Steps
 
 *  Run `git pull`
@@ -12,13 +12,12 @@ Repo to practice git workflow
 *  Run `git push`
 
 *  In github, go to pull requests, New Pull Request. Compare amas-branch to master.
-<<<<<<< HEAD
-=======
+
 
 # Just creating a merge conflict
 :)
 >>>>>>> master
-=======
+
 
 # More Steps
 *  Run `git checkout master`
@@ -28,5 +27,7 @@ Repo to practice git workflow
 *  Fix conflicts
 *  Run `git commit -m "fix merge conflicts"`
 *  Run `git push`
+
+# add text 
 
 >>>>>>> 6f0cfbe6e070251751d81d42952c127d66196f84
