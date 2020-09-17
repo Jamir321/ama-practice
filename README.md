@@ -11,3 +11,13 @@ Repo to practice git workflow
 *  Run `git push`
 
 *  In github, go to pull requests, New Pull Request. Compare amas-branch to master.
+
+# More Steps
+*  Run `git checkout master`
+*  Run `git pull`
+*  Run `git checkout amas-branch`
+*  Run `git merge master`
+*  Fix conflicts
+*  Run `git commit -m "fix merge conflicts"`
+*  Run `git push`
+
